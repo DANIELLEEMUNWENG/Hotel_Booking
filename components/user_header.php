@@ -3,7 +3,7 @@
 <section class="header">
 
    <div class="flex">
-      <a href="#home" class="logo">Hotels And Resorts</a>
+      <a href="#home" class="logo">Urban Oasis Hotel</a>
       <a href="#availability" class="btn">check availability</a>
       <div id="menu-btn" class="fas fa-bars"></div>
    </div>
