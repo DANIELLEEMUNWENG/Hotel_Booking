@@ -255,7 +255,7 @@ if(isset($_POST['send'])){
 
    <div class="row">
       <div class="image">
-         <img src="images/about-img-3.jpg" alt="">
+         <img src="https://i.pinimg.com/736x/ee/44/71/ee44717f101dac2be257e4e4cc3287e5.jpg" alt="">
       </div>
       <div class="content">
          <h3>swimming pool</h3>
