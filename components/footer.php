@@ -5,11 +5,11 @@
    <div class="box-container">
 
       <div class="box">
-         <a href="tel:1234567890"><i class="fas fa-phone"></i> +123-456-7890</a>
-         <a href="tel:1112223333"><i class="fas fa-phone"></i> +111-222-3333</a>
-         <a href="mailto:shakhanas@gmail.com"><i class="fas fa-envelope"></i> shakhanas@gmail.com</a>
-         <a href="mailto:anasbhai@gmail.com"><i class="fas fa-envelope"></i> anasbhai@gmail.com</a>
-         <a href="#"><i class="fas fa-map-marker-alt"></i> mumbai, india - 400104</a>
+         <a href="tel:1234567890"><i class="fas fa-phone"></i> 0164451511</a>
+         <a href="tel:1112223333"><i class="fas fa-phone"></i> 01131685258</a>
+         <a href="mailto:shakhanas@gmail.com"><i class="fas fa-envelope"></i> daniel@gmail.com</a>
+         <a href="mailto:anasbhai@gmail.com"><i class="fas fa-envelope"></i> azmir@gmail.com</a>
+         <a href="#"><i class="fas fa-map-marker-alt"></i> Taman Alor Malai, Alor Setar, Kedah, Poskod : 05100,Terletak di ,Taman Alor Malai,Alor Setar,Kedah Malaysia</a>
       </div>
 
       <div class="box">
@@ -32,7 +32,6 @@
 
    </div>
 
-   <div class="credit">&copy; copyright @ 2022 by mr. web designer | all rights reseved!</div>
 
 </section>
 
