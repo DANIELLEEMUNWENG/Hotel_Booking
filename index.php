@@ -325,15 +325,15 @@ if(isset($_POST['send'])){
       <div class="flex">
          <div class="box">
             <p>your name <span>*</span></p>
-            <input type="text" name="name" maxlength="50" required placeholder="enter your name" class="input">
+            <input type="text" name="name" maxlength="50" required placeholder="Enter Your Name" class="input">
          </div>
          <div class="box">
             <p>your email <span>*</span></p>
-            <input type="email" name="email" maxlength="50" required placeholder="enter your email" class="input">
+            <input type="email" name="email" maxlength="50" required placeholder="Enter Your Email" class="input">
          </div>
          <div class="box">
             <p>your number <span>*</span></p>
-            <input type="number" name="number" maxlength="10" min="0" max="9999999999" required placeholder="enter your number" class="input">
+            <input type="number" name="number" maxlength="10" min="0" max="9999999999" required placeholder="Enter Your Number" class="input">
          </div>
          <div class="box">
             <p>rooms <span>*</span></p>
@@ -413,10 +413,10 @@ if(isset($_POST['send'])){
 
       <form action="" method="post">
          <h3>send us message</h3>
-         <input type="text" name="name" required maxlength="50" placeholder="enter your name" class="box">
-         <input type="email" name="email" required maxlength="50" placeholder="enter your email" class="box">
-         <input type="number" name="number" required maxlength="10" min="0" max="9999999999" placeholder="enter your number" class="box">
-         <textarea name="message" class="box" required maxlength="1000" placeholder="enter your message" cols="30" rows="10"></textarea>
+         <input type="text" name="name" required maxlength="50" placeholder="Enter Your Name" class="box">
+         <input type="email" name="email" required maxlength="50" placeholder="Enter Your Email" class="box">
+         <input type="number" name="number" required maxlength="10" min="0" max="9999999999" placeholder="Enter Your Number" class="box">
+         <textarea name="message" class="box" required maxlength="1000" placeholder="Enter Your essage" cols="30" rows="10"></textarea>
          <input type="submit" value="send message" name="send" class="btn">
       </form>
 
@@ -458,38 +458,19 @@ if(isset($_POST['send'])){
 
       <div class="swiper-wrapper">
          <div class="swiper-slide box">
-            <img src="images/pic-1.png" alt="">
+            <img src="images/gambar3.png" alt="">
             <h3>john deo</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
-            <img src="images/pic-2.png" alt="">
+            <img src="images/gambar1.jpg" alt="">
             <h3>john deo</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
-         <div class="swiper-slide box">
-            <img src="images/pic-3.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
-         <div class="swiper-slide box">
-            <img src="images/pic-4.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
-         <div class="swiper-slide box">
-            <img src="images/pic-5.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
-         <div class="swiper-slide box">
-            <img src="images/pic-6.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
+         </div> 
+        
       </div>
 
-      <div class="swiper-pagination"></div>
+      
    </div>
 
 </section>
