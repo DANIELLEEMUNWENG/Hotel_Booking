@@ -5,10 +5,10 @@
    <div class="box-container">
 
       <div class="box">
-         <a href="tel:1234567890"><i class="fas fa-phone"></i> 0164451511</a>
-         <a href="tel:1112223333"><i class="fas fa-phone"></i> 01131685258</a>
-         <a href="mailto:shakhanas@gmail.com"><i class="fas fa-envelope"></i> daniel@gmail.com</a>
-         <a href="mailto:anasbhai@gmail.com"><i class="fas fa-envelope"></i> azmir@gmail.com</a>
+         <a href="tel:0164451511"><i class="fas fa-phone"></i> 0164451511</a>
+         <a href="tel:01131685258"><i class="fas fa-phone"></i> 01131685258</a>
+         <a href=" daniel@gmail.com"><i class="fas fa-envelope"></i> daniel@gmail.com</a>
+         <a href="azmir@gmail.com"><i class="fas fa-envelope"></i> azmir@gmail.com</a>
          <a href="#"><i class="fas fa-map-marker-alt"></i> Taman Alor Malai, Alor Setar, Kedah, Poskod : 05100,Terletak di ,Taman Alor Malai,Alor Setar,Kedah Malaysia</a>
       </div>
 
