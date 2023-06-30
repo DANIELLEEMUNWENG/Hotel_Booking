@@ -459,7 +459,7 @@ if(isset($_POST['send'])){
       <div class="swiper-wrapper">
          <div class="swiper-slide box">
             <img src="images/gambar3.png" alt="">
-            <h3>Daniel Lee Mun Weng</h3>
+            <h3> Daniel Lee Mun Weng</h3>
             <p>The company itself is a very successful company. I will explain the pleasures of the most worthy of flattery</p>
          </div>
          <div class="swiper-slide box">
